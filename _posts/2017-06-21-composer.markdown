@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "No sin composer"
+date:   2017-06-21 20:00:00 +0200
+categories: php charlas
+---
+De nuevo en PHPVigo explicando el funcionamiento de esta herramienta imprescindible para PHP.
+
+<iframe width="480" height="360" src="http://www.youtube.com/embed/NftbtvsTShE" frameborder="0"> </iframe>
+
+
+**Presentación disponible en [Github](https://github.com/carlosgoce/talks/blob/master/php_traits.md)**
