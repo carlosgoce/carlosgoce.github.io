@@ -9,4 +9,4 @@ Me estreno con mi primera presentación en esta mini charla sobre traits en PHP 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/yzoyQg1NIRo" frameborder="0"> </iframe>
 
 
-**Presentación disponible en [Github](https://github.com/carlosgoce/talks/blob/master/php_traits.md)**
+**Diapositivas disponibles en [Github](https://github.com/carlosgoce/talks/blob/master/php_traits.md)**
