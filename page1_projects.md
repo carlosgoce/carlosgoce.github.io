@@ -4,15 +4,30 @@ title: Trabajos
 permalink: /projects/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### [Rastrexando](https://www.rastrexando.eu)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div class="projects-page">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+    <section>
+        <div class="heading">
+            <div class="image-grid">
+                <div class="one-third-img-wrapper">
+                    <img class="one-third-img" src="{{ "/assets/projects/rastrexando-1.png" | absolute_url }}" />
+                </div>
 
+                <div class="one-third-img-wrapper">
+                    <img class="one-third-img"  src="{{ "/assets/projects/rastrexando-2.png" | absolute_url }}" />
+                </div>
 
-[jekyll-organization]: https://github.com/jekyll
+                <div class="one-third-img-wrapper">
+                    <img class="one-third-img"  src="{{ "/assets/projects/rastrexando-3.png" | absolute_url }}" />
+                </div>
+            </div>
+        </div>
+
+        <p>Web dedicada a agrupar todos los rastrexos disponibles, deporte que se practica únicamente en el sur de Galicia.</p>
+
+        <p>Desarrollada con python y django. Código fuente disponible en <a href="https://github.com/rastrexando/rastrexando-web">GitHub</a>.
+        </p>
+    </section>
+</div>
